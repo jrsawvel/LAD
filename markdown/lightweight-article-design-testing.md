@@ -6,7 +6,6 @@
 
 ###### By Nick Adams - Mon, Jan 29, 2018, updated 11:28 am
 
-
 I created this page, using my web-based static site (page) generator, called Wren.
 
 Currently this page uses system fonts at 22px. This page contains test text, which could be excerpts from one of my own web posts, mixed with content created by others with none of it related.
@@ -222,6 +221,4 @@ It was popularised in the 1960s with the release of Letraset sheets containing L
 [^somesamplefootnote]: Here is the text of the footnote itself.
 
 [somelink]:http://somelink.com
-
-
 

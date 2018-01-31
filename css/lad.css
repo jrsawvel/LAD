@@ -5,6 +5,8 @@
   lad.css
 */
 
+.home-link, .sitewide-footer {display: none;}
+
 html {
     font-size: 62.5%; /* ~10px browser default */
 }
@@ -59,6 +61,7 @@ table {
 h1 {
   font-size: 34px;
   font-size: 1.54545454545em;
+  color: #000000;
 }
 
 li {
@@ -81,7 +84,7 @@ h2 {
   font-size: 1.18181818182em;
   font-weight: 400;
   font-style: normal;
-  color: #444;
+  color: #333;
   line-height: normal;
 }
 
@@ -90,6 +93,7 @@ h3 {
   font-size: 1.36363636364em;
   margin-top: 70px; 
   margin-top: 2.333333333em; 
+  color: #000000;
 }
 
 h4 {
@@ -97,11 +101,13 @@ h4 {
   font-size: 1.27272727273em;
   margin-top: 70px;
   margin-top: 2.5em;
+  color: #000000;
 }
 
 h5 {
   font-size: 28px;
   font-size: 1.27272727273em;
+  color: #000000;
 }
 
 h6 {

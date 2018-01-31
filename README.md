@@ -4,5 +4,5 @@ I'm testing [thoughts](http://sawv.org/manifesto-for-lightweight-web-pages.html)
 
 I'm trying to make typography and the content the design.
 
-[Test HTML page](http://wren.soupmode.com/lightweight-article-design-testing.html).
+[Test HTML page](http://sawv.org/2018/01/29/lightweight-article-design-testing.html)
 
