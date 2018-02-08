@@ -6,4 +6,4 @@ I'm trying to make typography and the content the design.
 
 [Test HTML page](http://sawv.org/2018/01/29/lightweight-article-design-testing.html)
 
-[Dark mode test page](http://sawv.org/2018/01/29/lightweight-article-design-testing-dark-mode.html)
+[Dark mode test page](http://sawv.org/2018/02/08/lightweight-article-design-testing-dark-mode.html)
